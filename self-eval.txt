@@ -1,0 +1,11 @@
+First we need to know your self evaluation on the following website technologies (write this down on a notepad):
+Rate from 1 - 10 (10 is the highest)
+
+HTML: 8
+CSS: 8
+Bootstrap: 8
+JavaScript: 8
+Jquery: 8
+PHP: 8
+SQL:8
+Wordpress: 3
